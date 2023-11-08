@@ -3,4 +3,20 @@
   <groupId>com.orangehrm</groupId>
   <artifactId>Orangehrmtesting</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+
+  <dependencies>
+    <!-- https://mvnrepository.com/artifact/io.cucumber/cucumber-java -->
+    <dependency>
+      <groupId>io.cucumber</groupId>
+      <artifactId>cucumber-java</artifactId>
+      <version>7.14.0</version>
+    </dependency>
+
+  </dependencies>
+
+
+
+
+
+
 </project>
